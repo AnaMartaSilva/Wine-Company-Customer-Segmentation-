@@ -7,6 +7,9 @@ Workflow: This work was developed during the 2st semester of the master and incl
 
 Authors: Ana Marta da Silva (m20200971@novaims.unl.pt) Natalia Castaneda (m20200575@novaims.unl.pt) Maria Luisa Noguera (m20201005@novaims.unl.pt) Gustavo Ferreira Tourinho (m20180846@isegi.unl.pt)
 
-Main lecturer: Prof. Roberto Henriques
+Main lecturer:
+Prof. Fernando Lucas Bação
 
-Assistant professors: Prof. Carina Isabel Andrade Albuquerque, Lara Barradas Teixeira Garrucho De Oliveira
+Assistant professors:
+David Silva
+João Fonseca
